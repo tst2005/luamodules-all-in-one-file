@@ -1,3 +1,11 @@
+# THIS REPOSITORY IS OBSOLETE
+
+Please take a look to [the new repository](https://github.com/tst2005/lua-aio).
+ * (renamed) luamodules-all-in-one-file/ -> [lua-aio/](https://github.com/tst2005/lua-aio).
+ * (renamed) pack-them-all.lua  -> [aio.lua](https://github.com/tst2005/lua-aio/blob/master/aio.lua)
+ * (deleted) pack-them-all.sh
+
+
 # luamodules-all-in-one-file
 
 Embeding all lua modules/files of a project into only one lua file
